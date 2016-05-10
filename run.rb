@@ -1,3 +1,3 @@
-require 'dameons'
+require 'daemons'
 
 Daemons.run('app.rb')
