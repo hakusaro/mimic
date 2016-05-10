@@ -2,5 +2,4 @@ source "http://rubygems.org/"
 gem 'sinatra'
 gem 'httparty'
 gem 'thin'
-gem 'daemons'
-ruby '2.3.0'
+ruby '2.1.2'
