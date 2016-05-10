@@ -25,10 +25,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  daemons
   httparty
   sinatra
   thin
-
-BUNDLED WITH
-   1.11.2
