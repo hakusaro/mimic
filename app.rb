@@ -5,6 +5,7 @@ $update_package = nil
 $last = nil
 
 set :environment, :production
+set :port, ARGV[0]
 
 def update_version_number
   if $last == nil
