@@ -1,1 +1,1 @@
-web: ruby app.rb $PORT
+web: rackup -p $PORT config.ru
