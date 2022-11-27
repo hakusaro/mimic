@@ -3,4 +3,4 @@ gem 'sinatra'
 gem 'httparty'
 gem 'thin'
 
-ruby '2.7.1'
+ruby '3.1.3'
